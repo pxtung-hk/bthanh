@@ -10,7 +10,6 @@
  
 </div>
  
-<!--/. Container-->
 </div>
  
 </div>

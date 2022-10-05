@@ -28,4 +28,4 @@
           <li><a href="#">Page 3</a></li>
         </ul>
     </nav>
-     </div><!-- Close Header -->
+     </div>
